@@ -8,4 +8,7 @@ README File
    This is a Chatbot that can take multiple .PDF Files, and the user can ask questions based on the PDF to the Chatbot.
 
 3. Usage_HuggingFace_Transformers
-   This is a Program, that usage of key LLM Models. 
+   This is a Program, that usage of key LLM Models.
+
+4. CannyBot
+   This is a MultiModal Chatbot which is under development. 
